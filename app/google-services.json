@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844456868756",
+    "firebase_url": "https://kotlinuploadpdf.firebaseio.com",
+    "project_id": "kotlinuploadpdf",
+    "storage_bucket": "kotlinuploadpdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844456868756:android:79c0f40e1188319f162d81",
+        "android_client_info": {
+          "package_name": "com.example.kotlinuploadpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844456868756-mfkdlkildkamobcnn5j208ac9t114k6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinuploadpdf",
+            "certificate_hash": "3aaea87b3579a94c81f1d1871ad6324dd23d174e"
+          }
+        },
+        {
+          "client_id": "844456868756-onja6sijubjqcm2dqjbqdv74rfst12n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFF902VQLE2MZxQy5Zu86smHCvK-pj2wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844456868756-onja6sijubjqcm2dqjbqdv74rfst12n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
